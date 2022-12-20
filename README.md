@@ -9,7 +9,7 @@ Participants:
 
 Task management table: [here](https://trello.com/b/l1lJCOYR/nh%E1%BA%ADp-m%C3%B4n-cnpm-gr5) [Replace by your public board later]
 
-UI / UX prototype: [here](https://www.figma.com/file/mVnD4oRSErwjuCEGlGzWOx/Cosmetics-Shop?node-id=0%3A1&t=r0B52O0MIJQoPiH6-1) [Replace by your public prototype later]
+UI / UX prototype: [here](https://www.figma.com/file/ [Replace by your public prototype later]
 
 Tech stacks:
 
