@@ -2,14 +2,14 @@
 
 Participants:
 
--Leader: [Võ Hưng Khang - 20521440]
--Member: [Vương Thị Yến Nhi - 20521721]
--Member: [Huỳnh Khả Tú - 20522096]
--Member: [Nguyễn Thúc Hoàng Hùng - 20521370]
+- Leader: [Võ Hưng Khang - 20521440]
+- Member: [Vương Thị Yến Nhi - 20521721]
+- Member: [Huỳnh Khả Tú - 20522096]
+- Member: [Nguyễn Thúc Hoàng Hùng - 20521370]
 
 Task management table: [here](https://trello.com/b/l1lJCOYR/nh%E1%BA%ADp-m%C3%B4n-cnpm-gr5) [Replace by your public board later]
 
-UI / UX prototype: [here](https://www.figma.com/file/ [Replace by your public prototype later]
+UI / UX prototype: [here](https://www.figma.com/file/4sHDcwQ6zVay5Bn3NVHs4n/cosmetic-presentation?t=ay6vMD205bHvDsnZ-1)  [Replace by your public prototype later]
 
 Tech stacks:
 
